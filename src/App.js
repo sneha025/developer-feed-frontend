@@ -38,7 +38,7 @@ function App() {
             alignItems: "center",
           }}
         >
-          <img src={image} />
+          <img src={image} alt="image" />
         </Box>
       </Box>
     </Box>
